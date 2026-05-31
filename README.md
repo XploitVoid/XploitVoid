@@ -37,8 +37,11 @@ I build tools that make operating systems faster, networks more stable, and dail
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XploitVoid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=00FF00&icon_color=00FF00&title_color=00FF00" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XploitVoid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=00FF00&title_color=00FF00" height="195" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XploitVoid/XploitVoid/output/github-contribution-grid-snake-hacker.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XploitVoid/XploitVoid/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XploitVoid/XploitVoid/output/github-contribution-grid-snake-hacker.svg">
+  </picture>
 </div>
 
 <br>
