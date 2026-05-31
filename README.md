@@ -50,8 +50,6 @@ The ultimate Windows networking suite — automated, optimized, and built for po
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/XploitVoid/XploitVoid/output/dist/github-contribution-grid-snake-hacker.svg" />
-
 <sub>[ root@XploitVoid ~ ] — always in the terminal</sub>
 
 </div>
