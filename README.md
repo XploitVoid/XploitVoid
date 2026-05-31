@@ -37,7 +37,7 @@ I build tools that make operating systems faster, networks more stable, and dail
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/XploitVoid?template=classic&base=activity,community,repositories,metadata&config.timezone=Asia%2FBangkok&config.theme=dark" alt="Metrics" />
+  <img src="https://metrics.lecoq.io/XploitVoid?template=classic&base=header,repositories&plugin_languages=yes&plugin_languages_details=bytes-size,percentage&config.timezone=Asia%2FBangkok&config.theme=dark" alt="Metrics" />
 </div>
 
 <br>
