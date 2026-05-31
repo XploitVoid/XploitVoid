@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-██╗  ██╗██████╗ ██╗      ██████╗ ██╗████████╗██╗   ██╗ ██████╗ ██╗██████╗
-╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝██║   ██║██╔═══██╗██║██╔══██╗
- ╚███╔╝ ██████╔╝██║     ██║   ██║██║   ██║   ██║   ██║██║   ██║██║██║  ██║
- ██╔██╗ ██╔═══╝ ██║     ██║   ██║██║   ██║   ╚██╗ ██╔╝██║   ██║██║██║  ██║
-██╔╝ ██╗██║     ███████╗╚██████╔╝██║   ██║    ╚████╔╝ ╚██████╔╝██║██████╔╝
-╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝     ╚═══╝   ╚═════╝ ╚═╝╚═════╝
-```
-
-*Automation · Networking · Optimization*
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=220&section=header&text=XploitVoid&fontSize=90&fontAlignY=30&desc=Automation%20%7C%20Networking%20%7C%20Optimization&descAlignY=70&descSize=20&fontColor=00ff00" />
 
 </div>
 
