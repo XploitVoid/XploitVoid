@@ -37,11 +37,7 @@ I build tools that make operating systems faster, networks more stable, and dail
 ### 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XploitVoid/XploitVoid/output/github-contribution-grid-snake-hacker.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XploitVoid/XploitVoid/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XploitVoid/XploitVoid/output/github-contribution-grid-snake-hacker.svg">
-  </picture>
+  <img src="https://metrics.lecoq.io/XploitVoid?template=classic&base=activity,community,repositories,metadata&config.timezone=Asia%2FBangkok&config.theme=dark" alt="Metrics" />
 </div>
 
 <br>
