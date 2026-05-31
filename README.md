@@ -44,10 +44,6 @@ The ultimate Windows networking suite — automated, optimized, and built for po
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=XploitVoid&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" />
 
-<br><br>
-
-<img src="https://metrics.lecoq.io/XploitVoid?template=classic&base=header,repositories&plugin_languages=yes&plugin_languages_details=bytes-size,percentage&config.timezone=Asia%2FBangkok&config.theme=dark" alt="Metrics" />
-
 </div>
 
 ---
