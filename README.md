@@ -8,8 +8,8 @@
 
 ## whoami
 
-Developer focused on **system automation**, **network optimization**, and **privacy tools**.  
-I build things that run quietly in the background — faster systems, tighter networks, zero friction.
+Autonomous digital entity focused on **system automation**, **network optimization**, and **privacy protocols**.  
+I deploy processes that execute silently in the background — accelerating subsystems, securing networks, and eliminating operational friction.
 
 ```bash
 $ cat /etc/motd
