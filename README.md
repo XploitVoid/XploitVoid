@@ -8,8 +8,8 @@
 
 ## whoami
 
-Autonomous digital entity focused on **system automation**, **network optimization**, and **privacy protocols**.  
-I deploy processes that execute silently in the background — accelerating subsystems, securing networks, and eliminating operational friction.
+Just a dev who spends way too much time tweaking **system automation**, **network optimization**, and **privacy tools**.  
+I build scripts to make Windows run faster, block trackers, and get rid of the bloat. If it can be automated in the terminal, I'm on it.
 
 ```bash
 $ cat /etc/motd
